@@ -155,9 +155,8 @@ Example command:
 
 ## 👥 Authors <a name="authors"></a>
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/MohammadHamzaMushtaqhashmi/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/muhammad-hamza-mushtaq-2bb632251/)
 
 
 
