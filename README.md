@@ -84,7 +84,7 @@ For more information on the importance of a professional README for your reposit
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](https://mohammadhamzamushtaqhashmi.github.io/drum-machine/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
