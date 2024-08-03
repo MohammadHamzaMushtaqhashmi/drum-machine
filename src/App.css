@@ -1,0 +1,98 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #282c34;
+  color: white;
+  margin: 0;
+}
+.logo{
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 100px;
+}
+#drum-machine {
+  background-color: #3a3f47;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+#display {
+  background-color: #1e2125;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+#drum-box {
+  display: grid;
+  grid-template-columns: repeat(3, 100px);
+  grid-gap: 10px;
+}
+
+.drum-pad {
+  background-color: #50575d;
+  border: 1px solid #3a3f47;
+  border-radius: 5px;
+  padding: 20px;
+  text-align: center;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.drum-pad:hover {
+  background-color: #646b72;
+}
+
+button {
+  background-color: #ff5f5f;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-bottom: 20px;
+  font-size: 1em;
+}
+
+button:hover {
+  background-color: #ff3b3b;
+}
+
+/* #drum-machine {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #282c34;
+  color: white;
+}
+
+#display {
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 2px solid white;
+  width: 200px;
+  text-align: center;
+}
+
+.drum-pad {
+  display: inline-block;
+  margin: 10px;
+  padding: 20px;
+  border: 2px solid white;
+  cursor: pointer;
+  user-select: none;
+}
+#drum-box{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+  */
